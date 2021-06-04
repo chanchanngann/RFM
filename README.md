@@ -1,5 +1,7 @@
 # Customer Segmentation by RFM Analysis w/ K-Means Clustering
 
+Pls find the code and dynamic output here: https://nbviewer.jupyter.org/github/chanchanngann/RFM/blob/master/RFM.ipynb
+
 ### Background
 From the Pareto Principle, 80% of sales come from 20% of customers. Usually your business is largely supported by a fraction of your customer base - your best customers.
 
